@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="servico">
+    <output-path>$PROJECT_DIR$/out/artifacts/servico</output-path>
+    <root id="archive" name="servico.jar">
+      <element id="module-output" name="servicos" />
+      <element id="module-source" name="servicos" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
